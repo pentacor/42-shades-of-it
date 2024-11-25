@@ -1,0 +1,7 @@
+= 42 Shades of IT
+
+Im IT-Kosmos sind wir jeden Tag in Kontakt mit unzähligen technologischen Entwicklungen und projektspezifischen Herausforderungen - eingebettet in eine sich verändernde (Arbeits-)Welt. Und in unserem Meetup können und wollen wir diese Themen nicht voneinander trennen: Softwareentwicklung und Werte. Architektur und Organisationsform. DevOps und Unternehmenskultur. Und wie wäre es noch mit API und Kommunikation oder Cloud und Persönlichkeitsentwicklung?
+
+Im Vordergrund steht für uns, dass sich Menschen mit unterschiedlichen Perspektiven, an einem realen Ort zu allen “Shades of IT” miteinander austauschen.
+
+link:https://www.meetup.com/de-DE/42-shades-of-it/[Community auf meetup.com]
